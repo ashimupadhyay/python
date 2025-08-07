@@ -154,7 +154,6 @@ def addnumber(a):
 print(addnumber(10)) 
 
 #assignment decorator for exponent, power
-
 def power(value):
     n=7
     def wrapper(*args,**kwargs):
